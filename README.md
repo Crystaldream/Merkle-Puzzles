@@ -1,1 +1,1 @@
-Java implementation of the cryptographic algorith Merkle Puzzles
+Java implementation of the cryptographic algorithm Merkle Puzzles
